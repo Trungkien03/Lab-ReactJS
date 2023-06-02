@@ -1,0 +1,42 @@
+.containers {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .product-cards {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .badges {
+    background-color: #ccc;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  
+  .product-tumbs img {
+    max-width: 100%;
+  }
+  
+  .product-detailss {
+    margin-top: 10px;
+  }
+  
+  .product-prices {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .product-bottom-detailss {
+    /* Additional styling for the bottom details section */
+  }
+  

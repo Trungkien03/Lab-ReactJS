@@ -1,0 +1,22 @@
+.navbar .btn-outline-light {
+    position: relative;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+.navbar{
+    padding-left: 40px ;
+    padding-right: 40px ;
+}
+
+  .ml-2 {
+    margin-left: auto; /* Align the search form to the right */
+  }
+
+  .search-button{
+    position: relative;
+    right: 170px;
+  }
+  
+
