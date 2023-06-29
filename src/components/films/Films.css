@@ -1,3 +1,7 @@
+.list-film{
+  margin-top: 20px;
+}
+
 .film-item {
   margin-bottom: 20px;
   text-align: center;
@@ -46,7 +50,7 @@
 }
 .popup {
   text-align: center;
-  margin: 70px auto;
+  margin: 20px auto;
   padding: 5px;
   background: #fff;
   border-radius: 5px;
@@ -85,18 +89,11 @@ button{
 }
 
 .mr-2{
-  background-color: #333;
-  color: #fff;
+  margin: 20px;
 }
 
-.mr-2:hover{
-  background-color: grey;
-}
-a:hover{
-  background-color: grey;
-  color: #fff;
-}
-a{
-  text-decoration: none;
-  color: white;
+.button{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
